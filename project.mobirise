@@ -1,0 +1,318 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#3d8eb9",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 24,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "lisa.findyouranchoragehome.com",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Search for Homes by Property Type",
+          "meta": "Know which type of property you're looking for and want to look in multiple areas?...Search here"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/single-family-house-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchSingleFamily",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Single Family Homes<br>for Sale",
+          "subtitle1": "",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Whether it's your first house,</span><br>your \"we need a bigger house\" house,<br>or your ready to downsize house.<br>You can find them all here.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchSingleFamily\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/townhouse-sketch-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchCondos",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Condos/Townhomes<br>for Sale",
+          "subtitle2": "",
+          "caption2": "A good option for&nbsp;first time buyers.<br>Or those wanting to&nbsp;downsize.<br>Or just anyone who doesn't like<br>to do home maintenance.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchCondos\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/multi-family-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchMultiFamily",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Multi-Family Homes<br>for Sale",
+          "subtitle3": "",
+          "caption3": "Find the perfect investment property.<br>Or the perfect home where someone<br>else helps to pay you mortgage.<br>What a smart idea!",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchMultiFamily\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/new-construction-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchNewConstruction",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "New Construction Homes<br>for Sale",
+          "subtitle4": "",
+          "caption4": "Want a brand new, never lived in&nbsp;house?<br>Or one designed and built to<br>your specifications?<br>New Construction is the choice for you!",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchNewConstruction\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Search for Homes by Area",
+          "meta": "Know exactly which area you want to live in and want to search all property types?...Search here."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anchorage-snip-3-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchAnchorage",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Search Homes<br>in Anchorage",
+          "subtitle1": "",
+          "caption1": "Live in Alaska's largest city.<br>The home to more<br>espresso stands, per capita,<br>than anywhere else in the U.S.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchAnchorage\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/eagle-river-snip-3-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchEagleRiver",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Search Homes<br>in Eagle River",
+          "subtitle2": "",
+          "caption2": "...or nearby Chugiak.<br>Love to play in the mountains?<br>This area is one of the principle<br>gateways to Chugach State Park.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchEagleRiver\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wasilla-snip-2-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchWasilla",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Search Homes<br>in Wasilla",
+          "subtitle3": "",
+          "caption3": "...or Palmer. &nbsp;This year round reacreation<br>paradise offers the best of Alaska.<br>Live in the Mat-Su Valley &amp; get more<br>home &amp; more land for less money.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchWasilla\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/girdwood-snip-2-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://bit.ly/SearchGirdwood",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Search Homes<br>in Girdwood",
+          "subtitle4": "",
+          "caption4": "...or Alyeska. &nbsp;Whether you love to ski<br>or just ove being in a place with&nbsp;<br>small town character, this<br>\"resort town\" is the place for you.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://bit.ly/SearchGirdwood\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SEARCH NOW</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
